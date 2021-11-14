@@ -25,5 +25,4 @@ Finally, in addition to optimizing these combined techniques for exascale comput
 
 # Publications
 
-+ None yet
-
+{% include pubs.html %}
