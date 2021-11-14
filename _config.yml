@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: BEAST: Beyond-DFT Electrochemistry with Accelerated and Solvated Techniques
+email: sundar@rpi.edu
+baseurl: ""
+url: "https://beast-echem.org"
+
+# Build settings
+markdown: kramdown
+exclude: []
