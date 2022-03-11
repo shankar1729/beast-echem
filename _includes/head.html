@@ -1,0 +1,21 @@
+<head>
+  <meta name="author" content="BEAST collaboration">
+  <meta name="keywords" content="BEAST, Electrochemistry, DFT, Solvation, GW, RPA, Machine learning">
+  
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% endif %}
+  
+  {% if page.title == "Home" %}
+  <title>{{ site.title }}</title>
+  {% else %}
+  <title>{{ page.title | strip_html }} | {{ site.title }}</title>
+  {% endif %}
+  
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+</head>

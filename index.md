@@ -1,4 +1,9 @@
-## BEAST: Beyond-DFT Electrochemistry with Accelerated and Solvated Techniques
+---
+layout: page
+title: Home
+description: "BEAST collaboration develops solvated beyond-DFT methods for electrochemistry, accelerated by machine learning."
+permalink: /
+---
 
 Computational modeling of electrochemistry is limited in accuracy by
 1) the lack of a universal framework that efficiently treats arbitrary electrolytes, solvents and applied potentials with sufficient detail and fidelity to realistically and accurately model electrochemical systems, and
@@ -9,7 +14,7 @@ The first ingredient in these methods are accurate atomic-scale electrolyte solv
 The second ingredient is the incorporation of GW many-body perturbation theory and the random phase approximation (RPA) total energy, which are accurate methods beyond DFT, into solvated and grand-canonical techniques to make them practicable for electrochemistry including solvation and bias effects.
 Finally, in addition to optimizing these combined techniques for exascale computing, we will also make them more widely applicable using machine learning (ML) approaches trained to a beyond-DFT electrochemical database to make RPA-quality predictions at DFT cost.
 
-# Team
+## Team
 
 + Rensselaer Polytechnic Institute (PI: Ravishankar Sundararaman)
 + University of Colorado Boulder (PI: Charles Musgrave)
@@ -17,12 +22,15 @@ Finally, in addition to optimizing these combined techniques for exascale comput
 + University of South Carolina (PI: Christopher Sutton)
 + Lawrence Berkeley National Laboratory (PI: Mauro Del Ben)
 
-# Software
+## Software
 
 + [JDFTx](http://jdftx.org)
 + [BerkeleyGW](https://berkeleygw.org)
 + [QimPy](https://qimpy.org)
 
-# Publications
+## News
 
-{% include pubs.html %}
+{% for post in site.posts limit:3 %}
++ {{ post.date | date: "%b %-d, %Y" }}: [ {{ post.title }} ]( {{ post.url | prepend: site.baseurl }} )
+{% endfor %}
++ [Older news](/news/)
