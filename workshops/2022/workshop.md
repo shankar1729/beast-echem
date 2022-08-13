@@ -28,8 +28,9 @@ Please review [Setup instructions](setup) before / at the start of the workshop.
 
 + **9:00 am MDT** Introduction to JDFT+RPA: Theory and applications
 + **9:15 am MDT** JDFT+RPA calculations in practice with JDFTx+BGW
-+ **9:30 am MDT** Option 1: Continue Practical JDFTx sessions I and II
-+ **9:30 am MDT** Option 2: Practical JDFTx+BGW session on H adsorption on Pt
++ **9:30 am MDT**
+   - **Option 1**: Continue Practical JDFTx sessions I and II
+   - **Option 2**: Practical JDFTx+BGW session on H adsorption on Pt
 + **12:00 pm MDT** Break for lunch
 + **1:00 pm MDT** BEAST DB: vision, current status, and community involvement
 + **1:30 pm MDT** Practical JDFTx session III: High-throughput calculations
