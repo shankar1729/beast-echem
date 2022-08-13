@@ -10,7 +10,7 @@ permalink: /workshops/2022/setup/
 
 ## Access Cori with Jupyter Lab
 
-To access Cori, please visit [https://jupyter.nersc.gov/] and enter your training account username and password.
+To access Cori, sign into [https://jupyter.nersc.gov](https://jupyter.nersc.gov) on any browser with your training account username and password.
 Once logged in, you should see JupyterHub in the top left corner with options to start kernels on Perlmutter or Cori on CPUs and GPUs. 
 
 ![Cori Jupyter log-in page](cori-jupyter-login.png)
