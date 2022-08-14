@@ -16,10 +16,10 @@ Please review [Setup instructions](setup) before / at the start of the workshop.
 
 ### Day 1: August 15, 2022
 
-+ **9:00 am MDT** Welcome, introduction to BEAST
-+ **9:10 am MDT** Introduction to JDFT: Theory and applications
-+ **9:45 am MDT** JDFT calculations in practice with JDFTx code
-+ **10:30 am MDT** Practical JDFTx session I: water, bulk Pt
++ **9:00 am MDT** [Welcome, introduction to BEAST](beast.pdf)
++ **9:10 am MDT** [Introduction to Joint Density-Functional Theory (JDFT)](jdft.pdf)
++ **9:45 am MDT** [JDFT calculations in practice with JDFTx code](jdftx.pdf)
++ **10:00 am MDT** Practical JDFTx session I: water, bulk Pt
 + **12:00 pm MDT** Break for lunch
 + **1:00 pm MDT**  Practical JDFTx session II: Pt surface, H adsorption on Pt
 + **3:00 pm MDT** Adjourn
@@ -27,8 +27,8 @@ Please review [Setup instructions](setup) before / at the start of the workshop.
 ### Day 2: August 16, 2022
 
 + **9:00 am MDT** Introduction to JDFT+RPA: Theory and applications
-+ **9:15 am MDT** JDFT+RPA calculations in practice with JDFTx+BGW
-+ **9:30 am MDT**
++ **9:30 am MDT** JDFT+RPA calculations in practice with JDFTx+BGW
++ **9:45 am MDT**
    - **Option 1**: Continue Practical JDFTx sessions I and II
    - **Option 2**: Practical JDFTx+BGW session on H adsorption on Pt
 + **12:00 pm MDT** Break for lunch
