@@ -32,7 +32,7 @@ Please review [Setup instructions](setup) before / at the start of the workshop.
    - **Option 1**: Continue Practical JDFTx sessions I and II
    - **Option 2**: Practical JDFTx+BGW session on H adsorption on Pt
 + **12:00 pm MDT** Break for lunch
-+ **1:00 pm MDT** BEAST DB: vision, current status, and community involvement
++ **1:00 pm MDT** [BEAST DB: vision, current status, and community involvement](beastDB.pdf)
 + **1:30 pm MDT** Practical JDFTx session III: High-throughput calculations
 + **3:00 pm MDT** Adjourn 
 
