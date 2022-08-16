@@ -26,8 +26,8 @@ Please review [Setup instructions](setup) before / at the start of the workshop.
 
 ### Day 2: August 16, 2022
 
-+ **9:00 am MDT** Introduction to JDFT+RPA: Theory and applications
-+ **9:30 am MDT** JDFT+RPA calculations in practice with JDFTx+BGW
++ **9:00 am MDT** [Introduction to JDFT+RPA: Theory and applications](RPA.pdf)
++ **9:30 am MDT** [JDFT+RPA calculations in practice with JDFTx+BGW](PracticalRPA.pdf)
 + **9:45 am MDT**
    - **Option 1**: Continue Practical JDFTx sessions I and II
    - **Option 2**: Practical JDFTx+BGW session on H adsorption on Pt
