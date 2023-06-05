@@ -8,7 +8,12 @@ permalink: /workshops/2023/
 
 # 2nd BEAST Workshop, 2023
 
-<b>August 17 - 18, 2023, 9 am - 5 pm PDT (Hybrid: CSU Oakland, CA and online)</b>
+<b>August 17 - 18, 2023, 9 am - 5 pm PDT</b> in hybrid in-person/online mode at:
+
++ Cal State East Bay Oakland Center, Oakland, CA, USA, and
++ Online (on Zoom)
+
+[Register here](https://forms.gle/RjRBjWBvpH18BB977).
 
 ## Announcement
 
