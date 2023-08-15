@@ -15,7 +15,7 @@ If you have not already made your training account, please refer to the email in
 1. Go to https://iris.nersc.gov/train
 2. Fill out the form using e32Q as the Training Code
 3. Immediately <b>note your username and password</b>. NERSC will NOT email this to you, so make sure you save this information off line.
-4. Please enter your training account information into this form: https://forms.gle/byv8CNSygzDqVSx19 (so that we know who is ready to attend)
+4. Please enter your training account information into [this form](https://forms.gle/byv8CNSygzDqVSx19) (so that we know who is ready to attend)
 
 Once you have noted your training account username and password, please proceed to the next section.
 While the page indicates that the login will be available within 30 seconds, it seems to be taking 10-15 minutes to propagate to all systems.
