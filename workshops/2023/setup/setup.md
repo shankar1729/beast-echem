@@ -10,14 +10,16 @@ permalink: /workshops/2023/setup/
 
 ## Set up your NERSC training account
 
-If you have not already made your training account, please refer to the email instructions sent to you on 8/XX/2023 or follow the instructions here:
+If you have not already made your training account, please refer to the email instructions sent to you on 8/15/2023 or follow the instructions here:
 
 1. Go to https://iris.nersc.gov/train
-2. Fill out the form using b68n as the Training Code
-3. Immediately take note of your username and password. NERSC will NOT email this to you, so make sure you save this information off line.
-4. Please enter your training account information into this form: https://forms.gle/edeNdk2mCEdQpaET9
+2. Fill out the form using e32Q as the Training Code
+3. Immediately <b>note your username and password</b>. NERSC will NOT email this to you, so make sure you save this information off line.
+4. Please enter your training account information into this form: https://forms.gle/byv8CNSygzDqVSx19 (so that we know who is ready to attend)
 
-Once you have noted your training account username and password, please proceed to the next section
+Once you have noted your training account username and password, please proceed to the next section.
+While the page indicates that the login will be available within 30 seconds, it seems to be taking 10-15 minutes to propagate to all systems.
+So please wait 10 minutes before retrying if your login below fails.
 
 ## Access Perlmutter with Jupyter Lab
 
