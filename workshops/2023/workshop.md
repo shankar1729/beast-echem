@@ -20,11 +20,10 @@ Please review [Setup instructions](setup) before / at the start of the workshop.
 
 ### Day 1: Thursday, August 17, 2023
 
-+ **9:00 am PDT** Welcome, introduction to BEAST
-+ **9:10 am PDT** Introduction to Joint Density-Functional Theory (JDFT)
-+ **9:45 am PDT** JDFT calculations in practice with JDFTx code
-+ **10:00 am PDT** Introduction to the QimPy code
-+ **10:15 am PDT** Practical DFT session I: molecules and solids
++ **9:00 am PDT** [Welcome, introduction to BEAST](beast.pdf)
++ **9:10 am PDT** [Introduction to Joint Density-Functional Theory (JDFT)](jdft.pdf)
++ **9:45 am PDT** [JDFT calculations in practice with JDFTx (and a QimPy intro)](jdftx.pdf)
++ **10:00 am PDT** Practical DFT session I: molecules and solids
 + **12:00 pm PDT** Break for lunch
 + **1:00 pm PDT**  Practical DFT session II: surfaces and adsorbates
 + **3:00 pm PDT**  Practical DFT session III: transition states
