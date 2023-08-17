@@ -44,6 +44,20 @@ Please review [Setup instructions](setup) before / at the start of the workshop.
 + **4:00 pm PDT** Panel discussions, Q&amp;A, feature requests
 + **5:00 pm PDT** Adjourn 
 
+### Tutorial files
+
+The code setup on NERSC for the tutorials and the inputs should remain accessible
+to any one with a NERSC account even after the end of the workshop.
+However, you may need to modify batch scripts to remove the reservation / change the account.
+
+We have also bundled all the tutorial instructions and input files for download as
+[Calculations-clean.tbz2](Calculations-clean.tbz2) to your own computing resource.
+You will need to setup JDFTx, BerkeleyGW and GCNEB to work through these tutorials there,
+and modify the batch scripts / set up your own interactive sessions as appropriate.
+Additionally, to run the visualization notebooks, you will need to place
+this custom python package, [ase_ext.tbz2](ase_ext.tbz2), in your PYTHONPATH
+within an environment that includes the `ase` and `scikit-image` packages.
+
 
 ## Original announcement
 
