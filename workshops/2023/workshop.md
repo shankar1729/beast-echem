@@ -31,13 +31,13 @@ Please review [Setup instructions](setup) before / at the start of the workshop.
 
 ### Day 2: Friday, August 18, 2023
 
-+ **9:00 am PDT** Introduction to JDFT+RPA: Theory and applications
-+ **9:30 am PDT** JDFT+RPA calculations in practice with JDFTx+BGW
++ **9:00 am PDT** [Introduction to JDFT+RPA: Theory and applications](rpa.pdf)
++ **9:30 am PDT** [JDFT+RPA calculations in practice with JDFTx+BGW](jdftx-bgw.pdf)
 + **10:00 am PDT**
    - **Option 1**: Practical JDFTx+BGW session for adsorption energies
    - **Option 2**: Continue Practical DFT sessions II and III
 + **12:00 pm PDT** Break for lunch
-+ **1:00 pm PDT** BEAST DB: preview and opportunity for community contributions
++ **1:00 pm PDT** [BEAST DB: preview and opportunity for community contributions](beast.pdf)
 + **2:00 pm PDT** 
    - **Option 1**: QimPy preview and development overview
    - **Option 2**: Continue JDFTx+BGW session for adsorption energies
