@@ -37,7 +37,7 @@ Please review [Setup instructions](setup) before / at the start of the workshop.
    - **Option 1**: Practical JDFTx+BGW session for adsorption energies
    - **Option 2**: Continue Practical DFT sessions II and III
 + **12:00 pm PDT** Break for lunch
-+ **1:00 pm PDT** [BEAST DB: preview and opportunity for community contributions](beast.pdf)
++ **1:00 pm PDT** [BEAST DB: preview and opportunity for community contributions](beastdb.pdf)
 + **2:00 pm PDT** 
    - **Option 1**: QimPy preview and development overview
    - **Option 2**: Continue JDFTx+BGW session for adsorption energies
