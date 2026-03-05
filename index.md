@@ -14,7 +14,7 @@ Funded by the DoE Computational Chemical Sciences program under DE-SC0022247 sin
 
 + [Accurate atomic-scale electrolyte solvation models](/thrust1) that capture the equilibrium effect of electrolyte in a single electronic structure calculation.
 + GW many-body perturbation theory and the [random phase approximation (RPA) total energy](/thrust2), which are accurate methods beyond DFT, into solvated and grand-canonical techniques to make them practicable for electrochemistry including solvation and bias effects.
-+ Machine learning (ML) approaches trained to a beyond-DFT electrochemical database, [BEAST DB](https://beastdb.nrel.gov) to [make RPA-quality predictions at DFT cost](/thrust3) in order to make high-quality predictions based on the exascale methods more widely accessible to the community.
++ Machine learning (ML) approaches trained to a beyond-DFT electrochemical database, [BEAST DB](https://beast-echem.org/beastdb) to [make RPA-quality predictions at DFT cost](/thrust3) in order to make high-quality predictions based on the exascale methods more widely accessible to the community.
 
 The BEAST team conducts [annual workshops](/workshops) that introduce the most recent techniques for accurate first-principles electrochemistry, starting from a beginner's level on each of the software tools being developed as a part of this project.
 
