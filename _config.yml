@@ -7,3 +7,4 @@ url: "https://beast-echem.org"
 # Build settings
 markdown: kramdown
 exclude: []
+keep-files: ["beastdb"]
