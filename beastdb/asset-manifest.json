@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/beastdb/static/css/main.68c6d66c.css",
+    "main.js": "/beastdb/static/js/main.995269b1.js",
+    "static/js/592.678aac74.chunk.js": "/beastdb/static/js/592.678aac74.chunk.js",
+    "static/media/database-overview.png": "/beastdb/static/media/database-overview.eed53e2431dfcc1516ef.png",
+    "static/media/home-page-footer.png": "/beastdb/static/media/home-page-footer.d3de39240d6b95b293d4.png",
+    "static/media/adsorption-example-1.png": "/beastdb/static/media/adsorption-example-1.765632689e74b80d8b67.png",
+    "static/media/adsorption-example-2.png": "/beastdb/static/media/adsorption-example-2.f8576372db3c3561a168.png",
+    "static/media/beast-logo.png": "/beastdb/static/media/beast-logo.51254a5b41254eeeeeba.png",
+    "static/media/explicit-water-size.jpg": "/beastdb/static/media/explicit-water-size.e6e003be11003eec18e7.jpg",
+    "static/media/BEAST-DB-reactions.png": "/beastdb/static/media/BEAST-DB-reactions.7bd658db7736c2f50b9e.png",
+    "index.html": "/beastdb/index.html",
+    "main.68c6d66c.css.map": "/beastdb/static/css/main.68c6d66c.css.map",
+    "main.995269b1.js.map": "/beastdb/static/js/main.995269b1.js.map",
+    "592.678aac74.chunk.js.map": "/beastdb/static/js/592.678aac74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68c6d66c.css",
+    "static/js/main.995269b1.js"
+  ]
+}

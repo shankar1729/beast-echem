@@ -69,7 +69,7 @@ The workshop starts on the last day of the ACS Fall Meeting at Denver, CO, makin
 
 We are excited to announce the 3rd Annual BEAST (Beyond-DFT Electrochemistry with Accelerated and Solvated Techniques) Workshop.
 This BEAST workshop will include hands-on user sessions on simulation methods best suited for studying electrocatalysis.
-The methods will include grand-canonical DFT (GC-DFT) with the latest solvation methods implemented in the JDFTx and/or QimPy computational packages, beyond-DFT random phase approximation (RPA) calculations in the BerkeleyGW package, and our recently released GC-DFT electrocatalysis database, [BEAST DB](https://beastdb.nrel.gov).
+The methods will include grand-canonical DFT (GC-DFT) with the latest solvation methods implemented in the JDFTx and/or QimPy computational packages, beyond-DFT random phase approximation (RPA) calculations in the BerkeleyGW package, and our recently released GC-DFT electrocatalysis database, [BEAST DB](https://beast-echem.org/beastdb).
 The target participants for the Workshop are graduate students, postdocs, and researchers who are interested in learning about or sharpening their skills on ab initio calculations of electrocatalytic systems, including the effect of solvation, self-consistent applied potential and beyond-DFT exchange-correlation effects.
 
 This third workshop will once again start from basics, but provide options for more advanced calculations, building on previous year's workshops. 

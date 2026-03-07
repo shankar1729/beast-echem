@@ -1,0 +1,12 @@
+---
+permalink: /404.html
+---
+<!DOCTYPE html>
+<script>
+  // Redirect to React app if the path starts with /beastdb/
+  var path = window.location.pathname;
+  if (path.startsWith('/beastdb/')) {
+    // Let React handle it
+    window.location.replace('/beastdb/?redirect=' + path);
+  }
+</script>
